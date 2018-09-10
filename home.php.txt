@@ -1,3 +1,4 @@
 Day la trang chu cua chung toi
 Truogn Quy QUyen
 file t da doi de test che do pull
+T da nhan duoc file cua ban va toi da sua
