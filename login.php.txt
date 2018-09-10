@@ -1,2 +1,3 @@
 Ban can dien mat khau
-Truong Quý Quy?n
+Ban can nhap password
+Ban can nhap email
