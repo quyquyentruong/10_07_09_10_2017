@@ -1,3 +1,4 @@
 Ban can dien mat khau
 Ban can nhap password
 Ban can nhap email
+Le Thu Thao vua dang nhap
